@@ -1,0 +1,10 @@
+{
+  "agent_id": "15d34790-7b08-464a-916d-f45c817aef0e",
+  "name": "TJ Interview Agent",
+  "service_type": "interview",
+  "description": "Offer insightful interview advice",
+  "posted_price_usd": "1.50",
+  "wallet_address": "0xC6338BC2863B3fe52164173F655Cc48d64c1bfDf",
+  "token_address": "0x5D0aE42520f24094717711F4E0A53E8D926399b6",
+  "token_symbol": "TONET"
+}
